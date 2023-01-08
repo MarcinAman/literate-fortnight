@@ -34,3 +34,5 @@ mod tests {
         assert_eq!(vec![0, 1], two_sum(vec![3, 3], 6))
     }
 }
+
+fn main() {}
